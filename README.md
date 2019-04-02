@@ -18,4 +18,4 @@
 1. 命名实体识别的语料和代码：https://www.lookfor404.com/category/note/命名实体识别 ，其包含的方法有：规则、HMM、CRF、LSTM+CRF。
 
 ### 3.特定信息抽取
-基于LTP的语义角色标注的特定规则信息抽取
+基于[LTP](https://github.com/HIT-SCIR/ltp)的语义角色标注的特定规则信息抽取
