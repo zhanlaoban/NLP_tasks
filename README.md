@@ -1,14 +1,15 @@
-# NLP-task-collections
-将我做过的NLP中主流任务做一个集合 ，以形成一个大体的知识框架。
+# NLP_tasks
+将我做过的NLP的任务做一个集合 ，以形成一个大体的知识框架。
 
-## 目录：
+## Contents:
 1. 文本分类(Text Classification)
 2. 命名实体识别(Named Entity Recognition, NER)
 3. 特定信息抽取(Specific Information Extraction)
-4. 待更新
+4. 文本数据增强(Text Data Augmentation)
+5. 对话管理(Dialogue Management, DM)
 
 
-## 资料集合
+## Tasks:
 声明：十分感谢各位原作者的辛勤付出！若有侵权之处，请联系我删除。
 ### 1.文本分类
 1. 所有文本分类方法集合：
@@ -19,3 +20,9 @@
 
 ### 3.特定信息抽取
 基于[LTP](https://github.com/HIT-SCIR/ltp)的语义角色标注的特定规则信息抽取
+
+### 4.文本数据增强
+可以见我的这个工作：https://github.com/zhanlaoban/EDA_NLP_for_Chinese
+
+### 5.对话管理
+working on it now! :)
