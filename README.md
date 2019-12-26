@@ -11,7 +11,7 @@
 2. 命名实体识别(Named Entity Recognition, NER)
 3. 特定信息抽取(Specific Information Extraction)
 4. 文本数据增强(Text Data Augmentation)
-5. 对话管理(Dialogue System, DS)
+5. 对话系统(Dialogue System, DS)
 
 
 
