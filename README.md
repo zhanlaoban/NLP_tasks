@@ -23,7 +23,7 @@
   - https://github.com/brightmart/text_classification
 2. 我的工作：
   - https://github.com/zhanlaoban/Text_Classification
-  - https://github.com/zhanlaoban/Transformers_for_Text_Classification[新增，新增基于预训练模型的文本分类]
+  - https://github.com/zhanlaoban/Transformers_for_Text_Classification  [新增，新增基于预训练模型的文本分类]
 
 ### 2.Named Entity Recognition
 1. 命名实体识别的语料和代码：https://www.lookfor404.com/category/note/命名实体识别 ，其包含的方法有：规则、HMM、CRF、LSTM+CRF。
@@ -37,4 +37,4 @@
 ### 5.Dialogue System
 **综述：**
 
-1. [CNKI-任务型对话系统研究综述](http://new.oversea.cnki.net/KCMS/detail/11.1826.TP.20191105.1128.004.html?uid=WEEvREcwSlJHSldRa1FhcTdWa2FjcW9wSytQd0hxZ0hBODduTVMwWWZjMD0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&v=MTA0MjU3M0JKRnc9THo3QmRyRzRIOWpOcm85QVpPc1BZdzlNem1SbjZqNTdUM2ZscVdNMENMTDdSN3FlYnVkdEZDL2xV)[新增，非常棒的一篇中文任务型对话系统的综述]
+1. [CNKI-任务型对话系统研究综述](http://new.oversea.cnki.net/KCMS/detail/11.1826.TP.20191105.1128.004.html?uid=WEEvREcwSlJHSldRa1FhcTdWa2FjcW9wSytQd0hxZ0hBODduTVMwWWZjMD0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&v=MTA0MjU3M0JKRnc9THo3QmRyRzRIOWpOcm85QVpPc1BZdzlNem1SbjZqNTdUM2ZscVdNMENMTDdSN3FlYnVkdEZDL2xV) [新增，非常棒的一篇中文任务型对话系统的综述]
